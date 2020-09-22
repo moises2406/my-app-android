@@ -2,8 +2,8 @@
   "main": "node_modules/expo/AppEntry.js",
   "homepage": "https://moises2406.github.io/my-app-android",
   "scripts": {
-    "predeploy": "npm run duild",
-    "deploy": "gh-pages -d build",
+    "predeploy": "npm run duild:web",
+    "deploy": "gh-pages -d build:web",
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
