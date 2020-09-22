@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/my-app-android/static/js/app.187055f0.chunk.js",
+    "app.js.map": "/my-app-android/static/js/app.187055f0.chunk.js.map",
+    "runtime~app.js": "/my-app-android/static/js/runtime~app.f29de4d1.js",
+    "runtime~app.js.map": "/my-app-android/static/js/runtime~app.f29de4d1.js.map",
+    "static/js/2.7f608aa3.chunk.js": "/my-app-android/static/js/2.7f608aa3.chunk.js",
+    "static/js/2.7f608aa3.chunk.js.map": "/my-app-android/static/js/2.7f608aa3.chunk.js.map",
+    "favicon-16.png": "/my-app-android/favicon-16.png",
+    "favicon-32.png": "/my-app-android/favicon-32.png",
+    "favicon.ico": "/my-app-android/favicon.ico",
+    "index.html": "/my-app-android/index.html",
+    "manifest.json": "/my-app-android/manifest.json",
+    "serve.json": "/my-app-android/serve.json",
+    "static/js/2.7f608aa3.chunk.js.LICENSE.txt": "/my-app-android/static/js/2.7f608aa3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.f29de4d1.js",
+    "static/js/2.7f608aa3.chunk.js",
+    "static/js/app.187055f0.chunk.js"
+  ]
+}
